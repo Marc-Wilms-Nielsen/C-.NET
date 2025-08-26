@@ -1,1 +1,0 @@
-Challenges completed via microsoftlearn.
